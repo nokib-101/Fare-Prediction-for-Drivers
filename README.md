@@ -1,6 +1,6 @@
-# Garibook bid recommender — local web app
+# Bid recommender — local web app
 
-A small localhost site that wraps the model from `garibook_driver_bid_model_v3.ipynb`.
+A small localhost site that wraps the model from `driver_bid_model_v3.ipynb`.
 Pick a trip type and car type, search a pickup and dropoff, and it returns the bid band.
 
 **Requires a v3 artifact.** v3 trains one model per trip type, and the app routes on trip
