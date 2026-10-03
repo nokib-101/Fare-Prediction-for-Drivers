@@ -27,6 +27,4 @@ travels inside the bundle.
 * **Before re-exporting**, type the new price into the app's *Fuel price*
   field. Blank = table price; a number = that price. Also useful for
   "what if fuel goes to Tk 180?".
-* A warning appears when the price is above anything the model was built and
-  tested on. Beyond that point the effect comes from the cost-share formula,
-  not observed fares — compare with the first real bids at the new price.
+
