@@ -22,8 +22,7 @@ force on the booking date (Tk/L, average of octane and petrol). The fuel table
 travels inside the bundle.
 
 * **Prices changed?** Add a row to `FUEL_TABLE` in Stage B, re-run the export.
-  No retraining needed if the session is still alive (just re-run Stage B's
-  code cell, the predictor cells, and the export — or retrain fully later).
+
 * **Before re-exporting**, type the new price into the app's *Fuel price*
   field. Blank = table price; a number = that price. Also useful for
   "what if fuel goes to Tk 180?".
